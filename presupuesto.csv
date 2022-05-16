@@ -1,0 +1,8 @@
+Id,Fecha,Tipo,Categoria,Monto
+1,15/04/2022 12:00:00 a. m.,egreso,gasto superfluo,20000,
+2,16/04/2022 12:00:00 a. m.,egreso,comida,1500000,
+3,19/04/2022 12:00:00 a. m.,egreso,comida,10000,
+4,19/04/2022 12:00:00 a. m.,egreso,comida,40000,
+5,20/04/2022 12:00:00 a. m.,egreso,gasto superflu,300000,
+6,16/04/2022 12:00:00 a. m.,ingreso,salario,3000000,
+6,16/04/2022 12:00:00 a. m.,ingreso,salario,3000000,
